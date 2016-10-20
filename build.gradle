@@ -11,6 +11,7 @@ dependencies {
 }
 
 jar {
-    baseName = 'gs-gradle'
+    baseName = 'hello-world-ci'
     version =  '0.1.0'
 }
+
