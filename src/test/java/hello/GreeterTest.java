@@ -8,6 +8,6 @@ import org.junit.Test;
 public class GreeterTest {
     @Test
     public void shouldReturnHello() throws Exception {
-        assert(new Greeter().sayHello()).equals("Hello World");
+        assert(new Greeter().sayHello()).equals("Helo World");
     }
 }
